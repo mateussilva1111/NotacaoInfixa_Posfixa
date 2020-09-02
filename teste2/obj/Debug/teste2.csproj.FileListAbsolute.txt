@@ -1,0 +1,9 @@
+C:\Users\Mateus\Desktop\aplicativo\teste2\teste2\bin\Debug\teste2.exe.config
+C:\Users\Mateus\Desktop\aplicativo\teste2\teste2\bin\Debug\teste2.exe
+C:\Users\Mateus\Desktop\aplicativo\teste2\teste2\bin\Debug\teste2.pdb
+C:\Users\Mateus\Desktop\aplicativo\teste2\teste2\obj\Debug\teste2.csprojAssemblyReference.cache
+C:\Users\Mateus\Desktop\aplicativo\teste2\teste2\obj\Debug\teste2.Form1.resources
+C:\Users\Mateus\Desktop\aplicativo\teste2\teste2\obj\Debug\teste2.Properties.Resources.resources
+C:\Users\Mateus\Desktop\aplicativo\teste2\teste2\obj\Debug\teste2.csproj.GenerateResource.cache
+C:\Users\Mateus\Desktop\aplicativo\teste2\teste2\obj\Debug\teste2.exe
+C:\Users\Mateus\Desktop\aplicativo\teste2\teste2\obj\Debug\teste2.pdb
